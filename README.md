@@ -8,10 +8,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/smitanjali2005/Leetcode_problems/tree/master/0018-4sum) |
 | [0073-set-matrix-zeroes](https://github.com/smitanjali2005/Leetcode_problems/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/smitanjali2005/Leetcode_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0162-find-peak-element](https://github.com/smitanjali2005/Leetcode_problems/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/smitanjali2005/Leetcode_problems/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/smitanjali2005/Leetcode_problems/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/smitanjali2005/Leetcode_problems/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
