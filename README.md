@@ -11,12 +11,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/smitanjali2005/Leetcode_problems/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/smitanjali2005/Leetcode_problems/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/smitanjali2005/Leetcode_problems/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/smitanjali2005/Leetcode_problems/tree/master/0875-koko-eating-bananas) |
 ## Binary Search
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/smitanjali2005/Leetcode_problems/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/smitanjali2005/Leetcode_problems/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/smitanjali2005/Leetcode_problems/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/smitanjali2005/Leetcode_problems/tree/master/0875-koko-eating-bananas) |
 ## Two Pointers
 |  |
 | ------- |
